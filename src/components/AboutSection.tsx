@@ -12,11 +12,11 @@ const AboutSection = () => {
                 {/* Image replacing placeholder visual */}
                 <div className="relative w-full h-full">
                   <div className="absolute inset-0 bg-gradient-to-br from-primary/5 to-accent/5" />
-                  
+
                   {/* Profile Image */}
                   <div className="absolute inset-0 flex items-center justify-center">
                     <img
-                      src="public/image/sihabsafin.jpeg"
+                      src="/image/sihabsafin.jpeg"
                       alt="Sihab Safin - SEO Expert"
                       className="w-full h-full object-cover"
                     />
